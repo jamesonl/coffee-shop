@@ -1,0 +1,132 @@
+14:08:22,161 root INFO started the ecosystem.
+14:08:22,182 root INFO started the coffee shop.
+14:15:55,427 root INFO started the ecosystem.
+14:15:57,712 root INFO started the coffee shop.
+14:16:54,334 root INFO started the ecosystem.
+14:16:54,804 root INFO started the coffee shop.
+14:21:03,264 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+14:21:03,266 werkzeug INFO  * Restarting with stat
+14:21:03,636 werkzeug WARNING  * Debugger is active!
+14:21:03,641 werkzeug INFO  * Debugger PIN: 309-001-903
+14:21:03,661 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:03] "GET / HTTP/1.1" 200 -
+14:21:03,695 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:03] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+14:21:03,697 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:03] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+14:21:03,698 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:03] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+14:21:03,700 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:03] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+14:21:04,231 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:04] "GET /swagger.json HTTP/1.1" 200 -
+14:21:04,375 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:04] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:21:11,67 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:11] "GET / HTTP/1.1" 200 -
+14:21:11,303 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:11] "GET /swagger.json HTTP/1.1" 200 -
+14:21:11,346 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:11] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:21:37,953 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:37] "GET / HTTP/1.1" 200 -
+14:21:38,192 werkzeug INFO  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+14:21:38,194 werkzeug INFO  * Restarting with stat
+14:21:38,544 werkzeug WARNING  * Debugger is active!
+14:21:38,550 werkzeug INFO  * Debugger PIN: 309-001-903
+14:21:38,575 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:38] "GET /swagger.json HTTP/1.1" 200 -
+14:21:41,817 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:41] "GET / HTTP/1.1" 200 -
+14:21:42,478 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:42] "GET /swagger.json HTTP/1.1" 200 -
+14:21:42,633 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:42] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:21:53,577 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:53] "GET / HTTP/1.1" 200 -
+14:21:53,973 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:53] "GET /swagger.json HTTP/1.1" 200 -
+14:21:54,7 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:54] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:21:54,683 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:54] "GET / HTTP/1.1" 200 -
+14:21:54,858 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:54] "GET /swagger.json HTTP/1.1" 200 -
+14:21:54,898 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:21:54] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:22:22,48 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:22:22,88 werkzeug INFO  * Restarting with stat
+14:24:06,470 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:06] "GET / HTTP/1.1" 200 -
+14:24:06,513 werkzeug INFO  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+14:24:06,515 werkzeug INFO  * Restarting with stat
+14:24:06,929 werkzeug WARNING  * Debugger is active!
+14:24:06,935 werkzeug INFO  * Debugger PIN: 309-001-903
+14:24:07,70 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:07] "GET /swagger.json HTTP/1.1" 200 -
+14:24:08,721 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:08] "GET / HTTP/1.1" 200 -
+14:24:09,377 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:09] "GET /swagger.json HTTP/1.1" 200 -
+14:24:09,503 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:09] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:24:20,861 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:20] "GET /hello HTTP/1.1" 200 -
+14:24:25,672 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:25] "GET / HTTP/1.1" 200 -
+14:24:26,141 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:26] "GET /swagger.json HTTP/1.1" 200 -
+14:24:26,170 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:26] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:24:29,853 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:29] "GET /time HTTP/1.1" 200 -
+14:24:35,899 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:24:35] "GET /time_since_start HTTP/1.1" 200 -
+14:24:59,535 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:24:59,572 werkzeug INFO  * Restarting with stat
+14:24:59,898 werkzeug WARNING  * Debugger is active!
+14:24:59,904 werkzeug INFO  * Debugger PIN: 309-001-903
+14:30:54,99 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+14:30:54,99 werkzeug INFO  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+14:30:54,99 werkzeug INFO  * Restarting with stat
+14:30:54,100 werkzeug INFO  * Restarting with stat
+14:30:54,337 werkzeug WARNING  * Debugger is active!
+14:30:54,338 werkzeug WARNING  * Debugger is active!
+14:30:54,343 werkzeug INFO  * Debugger PIN: 309-001-903
+14:30:54,343 werkzeug INFO  * Debugger PIN: 309-001-903
+14:31:49,412 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:31:49] "GET / HTTP/1.1" 200 -
+14:31:49,792 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:31:49] "GET / HTTP/1.1" 200 -
+14:31:50,413 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:31:50] "GET /swagger.json HTTP/1.1" 200 -
+14:31:51,158 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:31:51] "GET /swagger.json HTTP/1.1" 200 -
+14:32:45,627 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:32:45,661 werkzeug INFO  * Restarting with stat
+14:32:45,993 werkzeug WARNING  * Debugger is active!
+14:32:45,998 werkzeug INFO  * Debugger PIN: 309-001-903
+14:32:48,15 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:32:48,50 werkzeug INFO  * Restarting with stat
+14:32:48,415 werkzeug WARNING  * Debugger is active!
+14:32:48,420 werkzeug INFO  * Debugger PIN: 309-001-903
+14:33:02,564 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:33:02,602 werkzeug INFO  * Restarting with stat
+14:33:02,936 werkzeug WARNING  * Debugger is active!
+14:33:02,941 werkzeug INFO  * Debugger PIN: 309-001-903
+14:33:03,953 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:33:03,991 werkzeug INFO  * Restarting with stat
+14:33:04,298 werkzeug WARNING  * Debugger is active!
+14:33:04,303 werkzeug INFO  * Debugger PIN: 309-001-903
+14:33:09,608 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:09] "GET / HTTP/1.1" 200 -
+14:33:09,920 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:09] "GET / HTTP/1.1" 200 -
+14:33:10,717 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:10] "GET /swagger.json HTTP/1.1" 200 -
+14:33:11,78 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:11] "GET /swagger.json HTTP/1.1" 200 -
+14:33:18,713 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:18] "GET /end_game HTTP/1.1" 500 -
+14:33:32,651 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:33:32,701 werkzeug INFO  * Restarting with stat
+14:33:33,15 werkzeug WARNING  * Debugger is active!
+14:33:33,21 werkzeug INFO  * Debugger PIN: 309-001-903
+14:33:36,115 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:36] "GET / HTTP/1.1" 200 -
+14:33:36,547 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:36] "GET /swagger.json HTTP/1.1" 200 -
+14:33:36,584 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:36] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+14:33:40,572 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:40] "GET /end_game HTTP/1.1" 200 -
+14:33:46,566 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:33:46] "GET /end_game HTTP/1.1" 200 -
+14:34:17,526 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/ecosystem/app.py', reloading
+14:34:17,567 werkzeug INFO  * Restarting with stat
+14:34:17,817 werkzeug WARNING  * Debugger is active!
+14:34:17,822 werkzeug INFO  * Debugger PIN: 309-001-903
+14:34:22,935 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:34:22] "GET / HTTP/1.1" 200 -
+14:34:23,266 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:34:23] "GET / HTTP/1.1" 200 -
+14:34:23,913 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:34:23] "GET /swagger.json HTTP/1.1" 200 -
+14:34:24,79 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:34:24] "GET /swagger.json HTTP/1.1" 200 -
+14:34:29,182 root INFO End of the game.
+14:34:29,210 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:34:29] "GET /end_game HTTP/1.1" 200 -
+14:36:03,916 werkzeug INFO  * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+14:36:03,917 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+14:36:03,917 werkzeug INFO  * Restarting with stat
+14:36:03,917 werkzeug INFO  * Restarting with stat
+14:36:04,160 werkzeug WARNING  * Debugger is active!
+14:36:04,161 werkzeug WARNING  * Debugger is active!
+14:36:04,167 werkzeug INFO  * Debugger PIN: 309-001-903
+14:36:04,169 werkzeug INFO  * Debugger PIN: 309-001-903
+14:36:06,114 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:36:06] "GET / HTTP/1.1" 200 -
+14:36:06,421 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:36:06] "GET / HTTP/1.1" 200 -
+14:36:06,994 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:36:06] "GET /swagger.json HTTP/1.1" 200 -
+14:36:07,151 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:36:07] "GET /swagger.json HTTP/1.1" 200 -
+14:36:14,604 root INFO End of the game.
+14:36:14,629 werkzeug INFO 127.0.0.1 - - [01/Jan/2020 14:36:14] "GET /end_game HTTP/1.1" 200 -
+14:47:40,818 werkzeug INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+14:47:40,819 werkzeug INFO  * Restarting with stat
+14:47:41,474 werkzeug WARNING  * Debugger is active!
+14:47:41,487 werkzeug INFO  * Debugger PIN: 309-001-903
+14:47:47,630 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/fiveharbors/app.py', reloading
+14:47:47,691 werkzeug INFO  * Restarting with stat
+14:47:48,577 werkzeug WARNING  * Debugger is active!
+14:47:48,587 werkzeug INFO  * Debugger PIN: 309-001-903
+14:48:39,405 werkzeug INFO  * Detected change in '/Users/jamesonlee/Documents/projects/coffee-shop/fiveharbors/app.py', reloading
+14:48:39,469 werkzeug INFO  * Restarting with stat
