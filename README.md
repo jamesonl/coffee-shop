@@ -110,3 +110,14 @@ The starting structure of the game is composed of two services:
     - Shipping and Logistics
     - Employee Statistics
     - Customer Statistics
+
+
+# Appendix
+
+This is a list of the resources that I used in order to build this game.
+
+## Resources and Descriptions
+
+ - [List of Coffee Types](https://www.clarioncafe.com/coffee-bean-types/)
+ - [World Map of Coffee Growing Regions](http://www.coffeeresearch.org/coffee/originsmap.htm) - I was not aware of where coffee really comes from... until I reviewed this map. The **coffee harvesting** time was also used in order to determine when certain kinds of coffee could be purchased.
+ - [International Coffee Organization](http://www.ico.org/) - used this for research on current events.
