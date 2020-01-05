@@ -63,3 +63,16 @@ Implementations of each of these unit types can be found within the `ecosystem` 
  - `RabbitMQ` - this will be the message broker responsible for managing the state of my application, delivering messages to different services
 
 _note about the non-python infrastructure: I am developing everything locally right now. Developing for a server is **very** low priority_.
+
+## References
+
+Articles that I read throughout this process that I used as inspiration, or as a template for my own development:
+
+ - [How to Build a Market Simulator Using Markov Chains and Python](https://towardsdatascience.com/how-to-build-a-market-simulator-using-markov-chains-and-python-7923256f8d29) - Modeling customer behavior!
+ - [Building a Simple State Machine](https://dev.to/karn/building-a-simple-state-machine-in-python) - An article describing the importance of state, how it can be measured, and how to implement in Python.
+ - [SimPy](https://simpy.readthedocs.io/en/latest/examples/index.html) - A simulation library built in python.
+    - based on the ["SimPy in 10 Minutes"](https://simpy.readthedocs.io/en/latest/simpy_intro/process_interaction.html) article, I think it would even be possible to implement a version of this _without_ the use of a message-broker or queue system. I believe I could simply focus on using yielding functions and classes to manage this.
+ - [Computational-Economy](https://github.com/uwol/computational-economy) - A github repo based off of [this paper (A Multi-Agent Non-Stochastic Economic
+Simulator)](https://uwol.github.io/docs/2015-06_CEF2015-322.pdf).
+ - [BashCafe](https://github.com/lucaswhitaker22/bash_cafe) - slightly different concept, but similar in nature! "The goal of the game is to predict how many coffees your need to make and how much to charge based off the temperature outside (since everyone loves an air conditioned cafe when its hot out). As the days progress, your goal is to make as much money as possible."
+ - [StateMachine](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html) - from the book, "Python 3 Patterns, Recipes, and Idioms", which talks about the management of state.
