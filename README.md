@@ -50,3 +50,16 @@ Implementations of each of these unit types can be found within the `ecosystem` 
     - What assets and decisions are most critical to designing the most/least [insert achievement]?
     - How do different configurations of ecosystems influence the above?
     - How do human players vs. computer players differ in actions?
+
+## Technology Stack
+
+**The entire project will be developed in `Python`, and will leverage the following packages:**
+ - `Flask` - this is a RESTFUL API framework that I can use to develop my application
+ - `Celery` - this is a task management queue that I can use to store the state of my application throughout each simulation
+ - `PyTest` - unit testing library for making sure that my methods work properly
+
+**Non-Python Infrastructure that I'll also need to use:**
+ - `Docker` - this will serve to host all the necessary tools / house the app
+ - `RabbitMQ` - this will be the message broker responsible for managing the state of my application, delivering messages to different services
+
+_note about the non-python infrastructure: I am developing everything locally right now. Developing for a server is **very** low priority_.
